@@ -23,3 +23,5 @@
 - Jika ingin melakukan transaksi, user harus registrasi sebagai member / seller atau juga bisa melakukan login jika sudah mempunyai akun
 - User seller memiliki fitur untuk dapat menjual product di aplikasi ini
 - Admin memiliki kemampuan untuk memantau seluruh data dan juga dapat mengeditnya jika diperlukan
+
+![Jeddi's Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeddi212&countColor=%23fce775&style=flat-square)
